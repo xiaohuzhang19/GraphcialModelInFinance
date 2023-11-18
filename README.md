@@ -1,4 +1,4 @@
-# Graph model applied in Financial Systematic Risk
+#### Graph model applied in Financial Systematic Risk
 
 
 Details can be found at 
